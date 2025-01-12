@@ -62,3 +62,8 @@ These components work together to provide robust features such as user registrat
 ---
 
 This project combines cutting-edge technologies and best practices to deliver a scalable, secure, and user-friendly cloud-native web application.
+
+---
+
+![339396959-1418c48c-444a-4a1e-871b-7d663bfb3a79](https://github.com/user-attachments/assets/bd1fc4e5-50c2-414d-828c-fef2f9f62d5b)
+
